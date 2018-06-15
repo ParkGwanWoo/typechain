@@ -1,0 +1,13 @@
+{
+  "name": "type-chain",
+  "version": "1.0.0",
+  "description": "Learning Typescript by making a Blockchain with it.",
+  "main": "index.js",
+  "repository": "git@github.com:ParkGwanWoo/type-chain.git",
+  "author": "DevYeon <yeonkevin@icloud.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
