@@ -1,3 +1,3 @@
 # type-chain
 
-Learning Typescript by making a Blockchain with it.
+타입스크립트로 자그마한 블록체인 만들어보는 토이 프
