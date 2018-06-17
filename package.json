@@ -1,4 +1,4 @@
-{
+  {
   "name": "type-chain",
   "version": "1.0.0",
   "description": "Learning Typescript by making a Blockchain with it.",
@@ -7,7 +7,6 @@
   "author": "DevYeon <yeonkevin@icloud.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js",
-    "prestart": "tsc"
+    "start": "tsc-watch --onSuccess \" node dist/index.js \""
   }
 }
